@@ -1,6 +1,6 @@
 # CheatSheets
 
-Git
-Python
-VSCode
-etc.
+- Git
+- Python
+- VSCode
+- etc.
